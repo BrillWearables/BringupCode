@@ -38,6 +38,7 @@ enum
 
     IDX_OBJECT_ACTION_CONTROL_POINT,
 	IDX_OBJECT_ACTION_CONTROL_POINT_VAL, // Write, Indicate
+	IDX_OBJECT_ACTION_CONTROL_POINT_CFG, // Indicate config
 
 	// Object List Control Point: not needed
 	// Object List Filter: not needed
